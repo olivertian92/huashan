@@ -1,1 +1,2 @@
 this is created for testing git
+this is modified by clone
